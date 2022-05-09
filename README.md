@@ -6,7 +6,7 @@ This repository contains two files for the capstone project I completed for the 
 The actual Kaggle project containing the R code used to read, transform, analyze, and present the data and my findings can be found at https://www.kaggle.com/code/terencelake/bellabeat-googlecapstone-r-powerbi
 # Capstone Project
 The Google Analytics capstone project I chose was the Bellabeat case study. 
-The business task was to analyze non-Bellabeat smart device usage (using public FitBit data) to gain insights into consumer usage trends.  Then use these insights to make high-level, marketing strategy recommendations to the Bellabeat Executive Team focused on growing the revenue of one of Bellabeat’s smart device products.  
+The business task was to analyze non-Bellabeat smart device usage (using public FitBit data) to gain insights into consumer usage trends.  These insights were to be used to make high-level, marketing strategy recommendations to the Bellabeat Executive Team focused on growing the revenue of one of Bellabeat’s smart device products.  
 # Data Source
 Fitbit Fitness Tracker Data dataset of 18 csv files from Kaggle.  It is a public domain dataset made available through Mobius.
 The files represent the activity of 33 Fitbit users over a one-month period from 4/12/16 to 5/12/16 and track daily activity by minute, hour, and day in a long format and additionally in wide format for a select number of files.
